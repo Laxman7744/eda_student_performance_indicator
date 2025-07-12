@@ -22,6 +22,8 @@ To analyze the dataset and explore:
 - Correlations and distributions between different variables.
 - Statistical summaries and outlier analysis.
 
+  
+
 ---
 
 ## 🧰 Tools & Technologies
@@ -48,7 +50,8 @@ To analyze the dataset and explore:
 
 ## 📈 Sample Visualizations
 
-> *(Add screenshots or sample plots here by uploading images to your repo and linking them)*
+><img width="1653" height="633" alt="Screenshot 2025-07-13 021920" src="https://github.com/user-attachments/assets/bbbc3fd4-0ef6-48fb-8c0d-551f4c95beb1" />
+
 
 ---
 
