@@ -1,7 +1,7 @@
 
 
 # EDA: Student Performance Indicator
-
+   
 Problem Statement
 
 This project investigates how students' performance (test scores) is influenced by variables such as gender, ethnicity, parental education level, lunch, and test preparation courses.
